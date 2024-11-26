@@ -1,0 +1,1 @@
+# Doubly-linked-lists-have-a-smaller-memory-footprint-compared-to-singly-linked-lists.
